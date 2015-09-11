@@ -8,16 +8,25 @@ color:red;
 }
 #shapes{
 background-color: black;
+
 }
 #triangle{
 background-color: green;
+border: 1px solid black;
+margin: 3px;
 }
 #square{
 background-color: blue;
+border: 1px solid black;
+margin: 3px;
 }
 #rect{
 background-color: yellow;
+border: 1px solid black;
+margin: 3px;
 }
 #circle{
 background-color: red;
+border: 1px solid black;
+margin: 3px;
 }
