@@ -22,6 +22,18 @@ border: 1px solid black;
 margin: 3px;
 display: inline-block;
 }
+
+/*Creating the square shape*/
+#the-square{
+height: 100px;
+width: 100px;
+background-color:white;
+margin: 20px;
+}
+
+
+
+
 #rect{
 background-color: yellow;
 border: 1px solid black;
