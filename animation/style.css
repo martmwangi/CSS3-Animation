@@ -86,33 +86,15 @@ margin: 40px;
 #sec3{
 display: block;
 }
-/*#one{
-height: 150px;
-width: 150px;
-border-radius: 100%;
-display:inline-block;
-margin: 50px;
-}
-#two{
-height: 150px;
-width: 150px;
-border-radius: 100%;
-display: inline-block;
-margin: 50px;
-}
-#three{
-height: 150px;
-width: 150px;
-border-radius: 100%;
-display: inline-block;
-margin: 50px;
-}*/
+
 .circ{
 height: 150px;
 width: 150px;
 border-radius: 100%;
 display: inline-block;
 margin: 50px;
+/*border: 1px solid black;*/
+padding: 20px;
 }
 
 
