@@ -41,6 +41,17 @@ border: 1px solid black;
 margin: 3px;
 display: inline-block;
 }
+
+/*Drawing the rectangle*/
+#the-rect{
+background-color: white;
+border: 1px solid black;
+margin:40px;
+height: 60px;
+width: 130px;
+}
+
+
 #circle{
 background-color: red;
 border: 1px solid black;
