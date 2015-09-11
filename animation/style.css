@@ -14,19 +14,23 @@ background-color: black;
 background-color: green;
 border: 1px solid black;
 margin: 3px;
+display: inline-block;
 }
 #square{
 background-color: blue;
 border: 1px solid black;
 margin: 3px;
+display: inline-block;
 }
 #rect{
 background-color: yellow;
 border: 1px solid black;
 margin: 3px;
+display: inline-block;
 }
 #circle{
 background-color: red;
 border: 1px solid black;
 margin: 3px;
+display: inline-block;
 }
